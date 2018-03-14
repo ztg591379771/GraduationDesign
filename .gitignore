@@ -1,0 +1,10 @@
+# A 忽略所有名为A的文件夹
+# A/A 忽略所在文件夹A下名为A的文件夹
+# *.txt 忽略属于后缀为.txt 的文件
+GraduationDesign/.vs
+GraduationDesign/Binaries
+GraduationDesign/Intermediate
+GraduationDesign/Saved
+GraduationDesign/DerivedDataCache
+GraduationDesign.VC.db
+*.opendb
